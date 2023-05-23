@@ -29,7 +29,7 @@
   <project path="frameworks/base" name="android_frameworks_base" remote="yuki" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="yuki" />
   <project path="packages/apps/YukiSpace" name="android_packages_apps_YukiSpace" remote="yuki" />
-  <project path="packages/apps/YukiWalls" name="android_packages_apps_YukiWalls" remote="yuki" />
+  <project path="packages/apps/YukiPapers" name="android_packages_apps_YukiPapers" remote="yuki" />
   <project path="vendor/yuki" name="android_vendor_yuki" remote="yuki" />
   <project path="vendor/PixelLauncher" name="android_vendor_PixelLauncher" remote="yuki" />
   
